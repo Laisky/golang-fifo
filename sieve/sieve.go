@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/scalalang2/golang-fifo/types"
+	"github.com/Laisky/golang-fifo/types"
 )
 
 // numberOfBuckets is the number of buckets to store the cache entries

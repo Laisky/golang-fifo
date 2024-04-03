@@ -3,7 +3,7 @@ package s3fifo
 import (
 	"container/list"
 	"context"
-	"github.com/scalalang2/golang-fifo/types"
+	"github.com/Laisky/golang-fifo/types"
 	"sync"
 	"time"
 )

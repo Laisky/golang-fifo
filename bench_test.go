@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/scalalang2/golang-fifo/sieve"
+	"github.com/Laisky/golang-fifo/sieve"
 )
 
 type value struct {

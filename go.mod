@@ -1,4 +1,4 @@
-module github.com/scalalang2/golang-fifo
+module github.com/Laisky/golang-fifo
 
 go 1.22
 
